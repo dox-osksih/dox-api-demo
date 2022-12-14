@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dox-api-demo/static/css/main.45e32702.css",
+    "main.js": "/dox-api-demo/static/js/main.99c9baa9.js",
+    "index.html": "/dox-api-demo/index.html",
+    "main.45e32702.css.map": "/dox-api-demo/static/css/main.45e32702.css.map",
+    "main.99c9baa9.js.map": "/dox-api-demo/static/js/main.99c9baa9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45e32702.css",
+    "static/js/main.99c9baa9.js"
+  ]
+}
